@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819458713583",
+    "project_id": "databasekozon",
+    "storage_bucket": "databasekozon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819458713583:android:91d373e838078aaf4ef81a",
+        "android_client_info": {
+          "package_name": "com.example.kozon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819458713583-cdadgt2fi06tqq7kcpkvjdaodaiojqci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2el1CqnqgTF9jdV4kca21Crtzy3s5FeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819458713583-cdadgt2fi06tqq7kcpkvjdaodaiojqci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
